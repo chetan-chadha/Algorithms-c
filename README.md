@@ -1,2 +1,2 @@
 # Algorithms-c
-All the Algorithms performed in C
+All the Algorithms in C
